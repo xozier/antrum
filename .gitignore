@@ -1,0 +1,16 @@
+# Data files
+data/
+*.h5ad
+
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Claude Code
+.claude/
